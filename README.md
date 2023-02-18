@@ -29,4 +29,12 @@ Your account has both a Teacher and a Student side, so you can enroll in the cou
 as a student first-hand.  
 
 ![image](https://user-images.githubusercontent.com/5249621/219883125-dbe568fc-8917-44e8-a045-c69b580b862a.png)
+
+The app also works in multiple languages with both text and speech support. The speech part is separate from Wikipedia
+language controls, but Reading Edge connects the right Wikipedia content, in various languages, with the correct 
+voice for speech playback.  Current languages are: English (US), English (UK), German, Italian, French, Indonesian, Russian,
+Thai (but using id speech-voice), Chinese (MD,TW,HK), Kiswahili, Portuguese (BR), Spanish and Korean.
+
 ![image](https://user-images.githubusercontent.com/5249621/219884881-ed17c553-ea3c-4bcb-9a62-df29d4031a25.png)
+
+

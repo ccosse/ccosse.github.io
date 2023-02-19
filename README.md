@@ -57,8 +57,8 @@ At that time the points earned were credits for internet access via a specially-
 at work, ie from my office, and my kids would literally teach themselves new things by the time I got home.  If they
 wanted internet access, at least, which they did.  Reading Edge was the prototype app for a larger proposed ecosystem
 based around the credits-for-internet-access scheme. Reading Edge itself went by the name <i>Force Reader</i> and
-the ecosystem was named the <i>Net Dispenser</i>.  But now it's just the reading part and the points, and you decide
-the exchange rate or how those points are redeemed. 
+the ecosystem was named the <i>Net Dispenser</i>.  But now it's just the reading part and the ability to earn points, while you decide
+the exchange rate and how those points are redeemed. 
 
 #### Software
 Reading Edge is built around the APIs for <a target="_blank" href="https://www.npmjs.com/package/wikipedia">Wikipedia</a> 

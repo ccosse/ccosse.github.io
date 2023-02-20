@@ -70,5 +70,6 @@ Reading Edge does not store any images or data, only links to external sources, 
 can also be used.
 
 ### Demo Pages Text
-Welcome to Reading Edge!&nbsp; After reading this paragraph click on "Step 2" button at the bottom and reconstruct the paragraph.&nbsp; When finished, click the "Step 3" button to collect your points,&nbsp; and then click the same button again to repeat the process and earn more points.
+Welcome to Reading Edge! After reading this paragraph click on "Step 2" button at the bottom and reconstruct the paragraph. When finished, click the "Step 3" button to collect your points, and then click the same button again to repeat the process and earn more points.
 
+It connects to Wikipedia for unlimited, trustworthy content. You can show your students whatever pictures you want and make them read whatever you write. For example, here is a picture of a schooner.

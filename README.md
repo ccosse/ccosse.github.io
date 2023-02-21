@@ -1,17 +1,21 @@
 ### Reading Edge (ccosse.github.io)
-This is my latest project called Reading Edge.  You can try it <a href="https://ccosse.github.io">Here</a>.
-Reading Edge trains kids to read carefully by having them reconstruct a series of paragraphs. For each paragraph
-there are 3 steps: Read, Repair and Reward.  First they read a straightforward paragraph, a good length is about 
-50-100 words.  Second, a percentage of words are chosen at random and thrown into a "bag of words" that need to
-be put back into the right place.  Third, after correctly repairing the paragraph, collect a reward of 1 point 
-per word corrected.  The all-or-nothing stakes provide incentive to make an effort and read carefully. Each retry
-is re-scrambled, as well.  You set the exchange rate for what "1 point" is worth, ie maybe they can buy their way
-out of doing chores, or compete for prizes, or just simply avoid being locked-up and electrocuted. (just kidding)
+![image](https://user-images.githubusercontent.com/5249621/220437027-d7843cd7-a757-44eb-b363-128a9e7e0777.png)
+
+At the heart of Reading Edge is a simple paragraph reconstruction activity.  First you read a paragraph in its
+normal form, then you reconstruct the same paragraph in which 15-20% of the words have been replaced with a list
+of word choices. The list is created dynamically, and the activity works on the levels of: context, punctuation, 
+capitalization, comprehension and attention to detail.  
+
+For each corrected word the student is awarded 1 point.  The default value of an Assignment is 50 points. You can 
+change the value and make the Assignment "repeatable" so students can return to the application whenever they want
+to earn more points.  You set the exchange rate for what "1 point" is worth, and thus you control the incentive.
 
 #### Wikipedia Content
 That's the process, but where does the reading material come from?  Indeed, content was always a problem. But that
 problem has been solved by integrating Wikipedia components directly into Reading Edge. Now you can quickly and easily 
-create reading assignments having quality content that will occupy and challenge your students for hours.
+create reading assignments having quality content that will occupy and challenge your students for hours. Note that 
+Reading Edge does not store images and text data, only public urls, which is not a limitation, and eliminates a lot
+of license and attribution overhead.
 
 #### Reading Edge Terminology
 Reading Edge terminology goes like this: each paragraph is part of a <i>page</i>. A page also contains images

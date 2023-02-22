@@ -64,6 +64,7 @@ based around the credits-for-internet-access scheme. Reading Edge itself went by
 the ecosystem was named the <i>Net Dispenser</i>.  But now it's just the reading part and the ability to earn points, while you decide
 the exchange rate and how those points are redeemed. 
 
+
 #### Software
 Reading Edge is built around the APIs for <a target="_blank" href="https://www.npmjs.com/package/wikipedia">Wikipedia</a> 
 and <a target="_blank" href="https://www.npmjs.com/package/speak-tts">speak-tts</a>, with Google voices.

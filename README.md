@@ -1,5 +1,6 @@
 ### Reading Edge (ccosse.github.io)
-![image](https://user-images.githubusercontent.com/5249621/220437027-d7843cd7-a757-44eb-b363-128a9e7e0777.png)
+![image](https://user-images.githubusercontent.com/5249621/220449531-7399edb1-8ffb-4412-84fa-3c313f2493ad.png)
+
 
 At the heart of Reading Edge is a simple paragraph reconstruction activity.  First you read a paragraph in its
 normal form, then you reconstruct the same paragraph in which 15-20% of the words have been replaced with a list

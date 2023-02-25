@@ -75,6 +75,14 @@ Reading Edge does not store any images or data, only links to external sources, 
 can also be used.
 
 ### Demo Pages Text
+Hello and Welcome!  
+Reading Edge is a web-application that enables you to confirm that your student(s) actually did read something, and that they read it carefully!
+This is achieved through a simple paragraph reconstruction activity where they must reconstruct each paragraph to continue through a sequence 
+of paragraphs that comprise an "Assignment".  
+
+, and the design goal of minimizing the work for parent or teacher.
+
+
 Welcome to Reading Edge! After reading this paragraph click on "Step 2" button at the bottom and reconstruct the paragraph. When finished, click the "Step 3" button to collect your points, and then click the same button again to repeat the process and earn more points.
 
 It connects to Wikipedia for unlimited, trustworthy content. You can show your students whatever pictures you want and make them read whatever you write. For example, here is a picture of a schooner.

@@ -49,10 +49,8 @@ Reading Edge is built around the APIs for <a target="_blank" href="https://www.n
 and <a target="_blank" href="https://www.npmjs.com/package/speak-tts">speak-tts</a>, with Google voices.
 Reading Edge does not store data or files, it only stores links to external sources, like Wikipedia. Custom urls can also be used. 
 
-
-![image](https://user-images.githubusercontent.com/5249621/219883125-dbe568fc-8917-44e8-a045-c69b580b862a.png)
-
-![image](https://user-images.githubusercontent.com/5249621/219884881-ed17c553-ea3c-4bcb-9a62-df29d4031a25.png)
+![image](https://user-images.githubusercontent.com/5249621/221380300-c570bf27-e75f-4e4d-b070-21f0c50bb1e6.png)
+![image](https://user-images.githubusercontent.com/5249621/221380406-c9f0a0fa-c763-4fd2-af91-a0f45a4fd2a6.png)
 
 #### History of Reading Edge
 Previous versions of this application were developed for the author's own children from about 2005 thru 2010.
@@ -74,15 +72,3 @@ The Vue.js bundle is currently deployed to my Github pages account: <a href="htt
 Reading Edge does not store any images or data, only links to external sources, namely Wikipedia. Custom urls 
 can also be used.
 
-### Demo Pages Text
-Hello and Welcome!  
-Reading Edge is a web-application that enables you to confirm that your student(s) actually did read something, and that they read it carefully!
-This is achieved through a simple paragraph reconstruction activity where they must reconstruct each paragraph to continue through a sequence 
-of paragraphs that comprise an "Assignment".  
-
-, and the design goal of minimizing the work for parent or teacher.
-
-
-Welcome to Reading Edge! After reading this paragraph click on "Step 2" button at the bottom and reconstruct the paragraph. When finished, click the "Step 3" button to collect your points, and then click the same button again to repeat the process and earn more points.
-
-It connects to Wikipedia for unlimited, trustworthy content. You can show your students whatever pictures you want and make them read whatever you write. For example, here is a picture of a schooner.

@@ -51,6 +51,7 @@ Reading Edge does not store data or files, it only stores links to external sour
 
 ![image](https://user-images.githubusercontent.com/5249621/221380300-c570bf27-e75f-4e4d-b070-21f0c50bb1e6.png)
 ![image](https://user-images.githubusercontent.com/5249621/221380406-c9f0a0fa-c763-4fd2-af91-a0f45a4fd2a6.png)
+![image](https://user-images.githubusercontent.com/5249621/221382039-04008942-1069-40cb-aef5-99f2ce53c18c.png)
 
 #### History of Reading Edge
 Previous versions of this application were developed for the author's own children from about 2005 thru 2010.

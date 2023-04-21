@@ -62,4 +62,13 @@ with Vite, View Router and Pinia. On the backend is a GCP Firebase Realtime Data
 The Vue.js bundle is currently deployed to my Github pages account: <a href="https://ccosse.github.io">here</a>.  
 Reading Edge does not store any images or data, only links to external sources, namely Wikipedia. Custom urls 
 can also be used.
+
 ![image](https://user-images.githubusercontent.com/5249621/233739151-5f715921-ce0a-4ec8-b293-975beececeba.png)
+
+#### More Images
+![image](https://user-images.githubusercontent.com/5249621/233742352-6481d850-09d0-4221-8ba2-fd8197972d41.png)
+![image](https://user-images.githubusercontent.com/5249621/233742367-3a764474-112c-404d-b944-b1f82cdf8ab7.png)
+![image](https://user-images.githubusercontent.com/5249621/233742403-4855d0f8-2ca2-4e0c-8fcb-e72fced094ca.png)
+![image](https://user-images.githubusercontent.com/5249621/233742953-74178c90-b9b3-4760-b8a3-ea90de7471a1.png)
+
+

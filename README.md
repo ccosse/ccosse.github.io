@@ -1,4 +1,4 @@
-### Reading Edge (ccosse.github.io)
+### [Reading Edge] (https://ccosse.github.io)
 At the heart of Reading Edge is a simple paragraph reconstruction activity in which the student first reads
 a short paragraph and is then asked to reconstruct it by replacing a random handful of words in their correct
 spots:

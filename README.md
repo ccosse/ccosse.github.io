@@ -1,4 +1,4 @@
-### [Reading Edge] (https://ccosse.github.io)
+### Reading Edge (https://www.readingedge.org)
 At the heart of Reading Edge is a simple paragraph reconstruction activity in which the student first reads
 a short paragraph and is then asked to reconstruct it by replacing a random handful of words in their correct
 spots:
@@ -62,3 +62,4 @@ with Vite, View Router and Pinia. On the backend is a GCP Firebase Realtime Data
 The Vue.js bundle is currently deployed to my Github pages account: <a href="https://ccosse.github.io">here</a>.  
 Reading Edge does not store any images or data, only links to external sources, namely Wikipedia. Custom urls 
 can also be used.
+![image](https://user-images.githubusercontent.com/5249621/233739151-5f715921-ce0a-4ec8-b293-975beececeba.png)

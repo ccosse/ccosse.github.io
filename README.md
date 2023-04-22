@@ -12,7 +12,7 @@ The words list is created dynamically, and the activity works on the levels of: 
 ##### Wikipedia Content
 Originally (~2004) this process was developed in order to confirm that my own kids had actually read various news articles they were told to read. If they completed the activity and had the points to prove it, then one could rest assured that they had read it carefully.
 
-However, the process of constructing reading activities requires work from the parent or teacher, and that is most definitely __not__ the point! So now, 20 years later, with Vue.js and Wikipedia's javascript API, I have built a dashboard interface for this process of assignment building which minimizes the work for the parent / teacher to keep kids reading, engaged and challenged all at the same time. 
+However, the process of constructing reading activities requires work from the parent or teacher, and that is most definitely __not__ the point! Over the years I revisited this project many times, each time with the latest web-architecture, but something always came up (work!) and it never got finished.  However, I know from experience just how effective the simple core exercise is, and so I never let go of this project.  Now, some 20 years later, with Vue.js and Wikipedia's javascript API, here is Version 1.0 of Reading Edge -- the App I've always wanted to __make publicly available__.  It is a work-in-progress by a one-man-band, and you can use it today! It will only get better with time.
 
 ![image](https://user-images.githubusercontent.com/5249621/233731964-3d59f01c-77ef-40fe-a5fa-93f537d3fb7f.png)
 
@@ -32,6 +32,7 @@ Reading Edge works in multiple languages with both text and speech support. Curr
 Reading Edge is built around the APIs for <a target="_blank" href="https://www.npmjs.com/package/wikipedia">Wikipedia</a> and <a target="_blank" href="https://www.npmjs.com/package/speak-tts">speak-tts</a>, with Google voices.  Reading Edge does not store data or files, it only stores links to external sources, like Wikipedia or any custom url you provide. Reading Edge is built with the following software and the packages 
 <ul>
   <li><a target="_blank" href="https://vuejs.org">Vue.js</a>
+  <li><a target="_blank" href="https://quasar.dev">Quasar</a>
   <li>Vue.js v3, Composition model,  with <a target="_blank" href="https://vitejs.dev">Vite</a>, <a target="_blank" href="https://router.vuejs.org">Vue Router</a> and <a target="_blank" href="https://pinia.vuejs.org">Pinia</a>.
   <li><a target="_blank" href="https://cloud.google.com">GCP</a> Firebase Realtime Database and also a Firestore Database
   <li><a target="_blank" href="https://www.npmjs.com/package/speak-tts">speak-tts</a>

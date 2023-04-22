@@ -2,7 +2,7 @@
 This is the ReadMe file for Reading Edge. Reading Edge is a tool for teaching kids to read carefully and think about context. The Reading Edge can be used for a single child at home, or by a teacher with multiple classes. The application is live online at: https://www.readingedge.org  It remains a work-in-progress by a one-man-band, but you can use it today, and it will only get better with time. So please be an education pioneer, an early adopter, and supplement your kids' educations with Reading Edge!
 
 ### Reading Edge
-At the heart of Reading Edge is a simple paragraph reconstruction activity in which the student first reads a short paragraph and is then asked to reconstruct it by replacing a random handful of words in their correct places:
+At the heart of Reading Edge is a simple paragraph reconstruction activity in which the student first reads a short paragraph and is then asked to reconstruct it by replacing a random handful of words to their correct places:
 ![image](https://user-images.githubusercontent.com/5249621/233723143-a471a8ec-b0d0-45c1-888e-c14b0bcc7fa2.png)
 ![image](https://user-images.githubusercontent.com/5249621/233723552-2c8c3b94-10ec-44f1-82d2-5e4f97ea9367.png)
 ![image](https://user-images.githubusercontent.com/5249621/233723781-2974927f-98a8-48a8-be37-5ce6b51588d1.png)

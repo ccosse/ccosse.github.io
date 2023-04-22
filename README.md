@@ -2,8 +2,9 @@
 This is the ReadMe file for Reading Edge.  
 Reading Edge is a tool for teaching kids to read carefully and think about context.
 The Reading Edge can be used for a single child at home, or by a teacher with multiple classes.
+The application is live online at: https://www.readingedge.org
 
-### Reading Edge (https://www.readingedge.org)
+### Reading Edge
 At the heart of Reading Edge is a simple paragraph reconstruction activity in which the student first reads
 a short paragraph and is then asked to reconstruct it by replacing a random handful of words in their correct
 spots:

@@ -1,3 +1,7 @@
+### Welcome! 
+This is the ReadMe file for Reading Edge.  
+Reading Edge is a tool that teaches kids to read carefully and think about context.
+
 ### Reading Edge (https://www.readingedge.org)
 At the heart of Reading Edge is a simple paragraph reconstruction activity in which the student first reads
 a short paragraph and is then asked to reconstruct it by replacing a random handful of words in their correct
@@ -16,8 +20,8 @@ various news articles they were told to read. If they completed the activity and
 one could rest assured that they had read it carefully.
 
 However, constructing such activities requires work from the parent or teacher, and that is most definitely __not__ the point!
-So now, 20 years later, with Vue.js and Wikipedia's javascript API this process of building activities has an interface 
-to minimize the work for the parent / teacher, and keep kids reading, engaged and challenged all at the same time.
+So now, 20 years later, with Vue.js and Wikipedia's javascript API, I have built a dashboard interface for this process
+of assignment building which minimizes the work for the parent / teacher to keep kids reading, engaged and challenged all at the same time.
 ![image](https://user-images.githubusercontent.com/5249621/233731964-3d59f01c-77ef-40fe-a5fa-93f537d3fb7f.png)
 
 #### Wikipedia Content (continued)

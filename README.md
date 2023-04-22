@@ -21,7 +21,7 @@ Every article in Wikipedia has a short summary paragraph, and these summary para
 
 ![image](https://user-images.githubusercontent.com/5249621/233734238-5ef7bcc9-899f-42ee-adbe-377a0616dd66.png)
 
-Now you can quickly and easily create reading assignments having quality content that will occupy and challenge your students for hours. Note that Reading Edge currently does not store images and text data, only public urls, in order to avoid legal minefields.
+Now you can quickly and easily create reading assignments having quality content that will occupy and challenge your students for hours. For maximum parent/teacher efficiency you can automatically generate multiple pages based on one or more "guide-words".  Generating in advance, rather than on-the-fly, allows the parent/teacher to review the results before presenting to the student ... just in case!  It's Wikipedia after all, and there can be graphic photos of war and other topics that you may wish to filter.  But this single feature is where the real power of Reading Edge lies, because with this you can quickly generate, filter and assign in minutes, and your student(s) will have hours worth of quality, engaging and challenging material courtesy of Wikipedia. Note that Reading Edge currently does not store images and text data, only public urls, in order to avoid legal minefields.
 
 #### There is a Gallery (https://www.readingedge.org/gallery)
 

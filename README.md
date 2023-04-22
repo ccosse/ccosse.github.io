@@ -35,7 +35,7 @@ Now you can quickly and easily create reading assignments having quality content
 students for hours. Note that Reading Edge currently does not store images and text data, only public urls, in order to
 avoid legal minefields.
 
-### There is a [Gallery] (https://www.readingedge.org)
+#### There is a Gallery (https://www.readingedge.org/gallery)
 
 #### Language Support
 The app also works in multiple languages with both text and speech support. The speech part is separate from Wikipedia

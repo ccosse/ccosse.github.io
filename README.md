@@ -1,6 +1,7 @@
 ### Welcome! 
 This is the ReadMe file for Reading Edge.  
-Reading Edge is a tool that teaches kids to read carefully and think about context.
+Reading Edge is a tool for teaching kids to read carefully and think about context.
+The Reading Edge can be used for a single child at home, or by a teacher with multiple classes.
 
 ### Reading Edge (https://www.readingedge.org)
 At the heart of Reading Edge is a simple paragraph reconstruction activity in which the student first reads

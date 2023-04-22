@@ -29,13 +29,19 @@ Now you can quickly and easily create reading assignments having quality content
 Reading Edge works in multiple languages with both text and speech support. Current languages are: English (US), English (UK), German, Italian, French, Indonesian, Russian, Thai (but using Indonesian (wrong) voice), Chinese (MD,TW,HK), Kiswahili, Portuguese (BR), Spanish and Korean. More languages are possible and configuring a proper Thai voice is among several items on the todo list.
 
 #### Credits and Attribution
-Reading Edge is built around the APIs for <a target="_blank" href="https://www.npmjs.com/package/wikipedia">Wikipedia</a> and <a target="_blank" href="https://www.npmjs.com/package/speak-tts">speak-tts</a>, with Google voices.  Reading Edge does not store data or files, it only stores links to external sources, like Wikipedia. Custom urls can also be used. ReadingEdge also uses the packages <a target="_blank" href="https://vuejsexamples.com/an-explosion-of-confetti-as-a-vue-3-component/">vue-confetti-explosion</a> and <a target="_blank" href="https://www.npmjs.com/package/flag-icons">Flag-icons</a>.
+Reading Edge is built around the APIs for <a target="_blank" href="https://www.npmjs.com/package/wikipedia">Wikipedia</a> and <a target="_blank" href="https://www.npmjs.com/package/speak-tts">speak-tts</a>, with Google voices.  Reading Edge does not store data or files, it only stores links to external sources, like Wikipedia or any custom url you provide. Reading Edge is built with the following software and the packages 
+<ul>
+  <li><a target="_blank" href="https://vuejs.org">Vue.js</a>
+  <li>Vue.js v3, Composition model,  with <a target="_blank" href="https://vitejs.dev">Vite</a>, <a target="_blank" href="https://router.vuejs.org">Vue Router</a> and <a target="_blank" href="https://pinia.vuejs.org">Pinia</a>.
+  <li><a target="_blank" href="https://cloud.google.com">GCP</a> Firebase Realtime Database and also a Firestore Database
+  <li><a target="_blank" href="https://www.npmjs.com/package/speak-tts">speak-tts</a>
+  <li><a target="_blank" href="https://www.npmjs.com/package/wikipedia">Wikipedia</a>
+  <li><a target="_blank" href="https://vuejsexamples.com/an-explosion-of-confetti-as-a-vue-3-component/">vue-confetti-explosion</a>
+  <li><a target="_blank" href="https://www.npmjs.com/package/flag-icons">Flag-icons</a>
+</ul>
 
 #### History of Reading Edge
 Previous versions of this application were developed for the author's own children from about 2005 thru 2010. At that time the points earned were credits for internet access via a specially-configured Raspberry-Pi (configured as a Wifi hotspot-kiosk with a credit-meter). With this arrangement I could produce assignments while at work, ie from my office, and my kids would literally teach themselves new things by the time I got home.  If they wanted internet access, at least, which they did.  Reading Edge was the prototype app for a larger proposed ecosystem based around the credits-for-internet-access scheme. Reading Edge itself went by the name <i>Force Reader</i> and the ecosystem was named the <i>Net Dispenser</i>.  But now it's just the reading part and the ability to earn points, while you decide the exchange rate and how those points are redeemed. 
-
-#### Software
-Reading Edge is built around the APIs for <a target="_blank" href="https://www.npmjs.com/package/wikipedia">Wikipedia</a> and <a target="_blank" href="https://www.npmjs.com/package/speak-tts">speak-tts</a>, with Google voices. Reading Edge is built with <a target="_blank" href="https://vuejs.org">Vue.js</a> version 3, composition model,  with Vite, View Router and Pinia. On the backend is a GCP Firebase Realtime Database and also a Firestore Database.  The Vue.js bundle is currently deployed to my Github pages account: <a href="https://ccosse.github.io">here</a>.   Reading Edge does not store any images or data, only links to external sources, namely Wikipedia. Custom urls can also be used.
 
 ![image](https://user-images.githubusercontent.com/5249621/233739151-5f715921-ce0a-4ec8-b293-975beececeba.png)
 

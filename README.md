@@ -1,8 +1,7 @@
 ### Welcome! 
-This is the ReadMe file for Reading Edge. Reading Edge trains kids to read carefully and think about context. Reading Edge can be used for a single child at home, or by a teacher with multiple classes. The application is live online at: https://www.readingedge.org  It remains a work-in-progress by a one-man-band, but you can use it today to supplement your kids' educations, and it will only get better with time. Thanks for checking it out!
+This resource harnesses Wikipedia content to generate or build "paragraph reconstruction" assignments for your child or students.  Each page of an assignment contains a short Wikipedia summary passage and images.  The student reads the original passage and then reconstructs it by replacing a random handful of words in their correct places.  Keeps kids accountable and compels them to take an interest in the reading material.
 
 ### Reading Edge
-At the heart of Reading Edge is a simple paragraph reconstruction activity in which the student first reads a short paragraph and is then asked to reconstruct it by replacing a random handful of words in their correct spots:
 ![image](https://user-images.githubusercontent.com/5249621/233723143-a471a8ec-b0d0-45c1-888e-c14b0bcc7fa2.png)
 ![image](https://user-images.githubusercontent.com/5249621/233723552-2c8c3b94-10ec-44f1-82d2-5e4f97ea9367.png)
 ![image](https://user-images.githubusercontent.com/5249621/233723781-2974927f-98a8-48a8-be37-5ce6b51588d1.png)

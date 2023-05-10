@@ -1,0 +1,29 @@
+05-09-2023
+  Fix backend and deployment issue on dev
+  More navigation improvements
+
+05-07-2023
+  Iframe page preview for pages loaded
+  from left-sidebar w/option to keep
+
+05-06-2023
+  Fixed overlay buttons for scroll to top
+  Fixed overlay button for toggleText
+
+05-04-2023
+  Rework right sidebar navigation 
+
+05-04-2023
+  Fix some profile issues
+
+05-04-2023
+  Static files serving config work
+  Adjustments to navigation; Try It launches directly to student stepper
+  Make 2 new experimental Demo assignments: Cities & Downtowns
+
+05-01-2023
+  Add language support for Hindi, Dutch, Polski
+  Fix Chinese lang speech tables
+
+04-27-2023
+  First public release

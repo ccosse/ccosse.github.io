@@ -1,5 +1,8 @@
 ### Welcome! 
-This resource harnesses Wikipedia content to generate or build "paragraph reconstruction" assignments for your child or students.  Each page of an assignment contains a short Wikipedia summary passage and images.  The student reads the original passage and then reconstructs it by replacing a random handful of words in their correct places.  Keeps kids accountable and compels them to take an interest in the reading material.
+Reading Edge leverages Wikipedia content to generate or build "paragraph reconstruction" assignments for your child or students.
+Each page of an assignment contains a short Wikipedia summary passage and images. The student reads the original passage and then
+reconstructs it by replacing a random handful of words in their correct places. The system awards one point per correct word placed.
+Use the exercise to keep kids accountable and the rewards system to bring out their best efforts.
 
 ### Reading Edge
 ![image](https://user-images.githubusercontent.com/5249621/233723143-a471a8ec-b0d0-45c1-888e-c14b0bcc7fa2.png)
@@ -25,7 +28,8 @@ Now you can quickly and easily create reading assignments having quality content
 #### There is a Gallery (https://www.readingedge.org/gallery)
 
 #### Language Support
-Reading Edge works in multiple languages with both text and speech support. Current languages are: English (US), English (UK), German, Italian, French, Indonesian, Russian, Thai (but using Indonesian (wrong) voice), Chinese (MD,TW,HK), Kiswahili, Portuguese (BR), Spanish and Korean. More languages are possible and configuring a proper Thai voice is among several items on the todo list.
+Reading Edge works in multiple languages with both text and speech support. Current languages are: English (US), English (UK-Male), English (UK-Female) German, Italian, French, Indonesian, Russian, Thai (need voice), Chinese, Kiswahili, Portuguese, Spanish (ES), Spanish (MX), Korean, Dutch, Polish and most recently: Hindi
+Try this: search for the same thing in different languages and you'll get different sets of images and text, as well!
 
 #### Credits and Attribution
 Reading Edge is built around the APIs for <a target="_blank" href="https://www.npmjs.com/package/wikipedia">Wikipedia</a> and <a target="_blank" href="https://www.npmjs.com/package/speak-tts">speak-tts</a>, with Google voices.  Reading Edge does not store data or files, it only stores links to external sources, like Wikipedia or any custom url you provide. Reading Edge is built with the following software and the packages 

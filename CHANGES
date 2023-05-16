@@ -1,5 +1,5 @@
 05-27-2023
-  Remove student from course
+  Delete icon to remove student from course (@gradebook)
   Gradebook formatting
   Attention to course.enrollment object loading for roles
 

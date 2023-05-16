@@ -1,3 +1,8 @@
+05-27-2023
+  Remove student from course
+  Gradebook formatting
+  Attention to course.enrollment object loading for roles
+
 05-25-2023
   Various UI/UX improvements: some buttons larger, some
   buttons consolidated, roll-up Page Meta to avoid collision

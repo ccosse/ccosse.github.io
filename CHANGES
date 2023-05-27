@@ -1,3 +1,16 @@
+05-27-2023
+  Delete icon to remove student from course (@gradebook)
+  Gradebook formatting
+  Attention to course.enrollment object loading for roles
+
+05-25-2023
+  Various UI/UX improvements: some buttons larger, some
+  buttons consolidated, roll-up Page Meta to avoid collision
+  with bottom nav buttons on mobile.
+  Delete image button
+  Add missing delete confirmation dialogs
+  Don't save text fields (urls, text) if blank (replace w/original)
+
 05-13-2023
   Moved ReadingEdge to https://readingedge.asymptopia.com
   Add Three.js test at /three

@@ -1,4 +1,9 @@
 05-27-2023
+  Toggle text and button visibility in Assignment Stepper
+  Change language tts engine to responsive Voice
+  Now have Thai and Swahili voices! Many more possible ...
+
+05-26-2023
   Delete icon to remove student from course (@gradebook)
   Gradebook formatting
   Attention to course.enrollment object loading for roles

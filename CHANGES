@@ -1,6 +1,8 @@
 05-27-2023
-  Now have Thai and Swahili voices! Many more possible ...
+  Now have Thai and Swahili voices!
+  More voices: is, fi, tr, hu, ro, vn, lk, dk, sa, cz
   Sound now working on mobile devices
+  Click playSound icon 2nd time to STOP speaking
   Change language tts engine to responsive Voice
   Toggle text and button visibility in Assignment Stepper
 

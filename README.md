@@ -39,15 +39,17 @@ Reading Edge is built around the APIs for <a target="_blank" href="https://www.n
   <li>Vue.js v3, Composition model,  with <a target="_blank" href="https://vitejs.dev">Vite</a>, <a target="_blank" href="https://router.vuejs.org">Vue Router</a> and <a target="_blank" href="https://pinia.vuejs.org">Pinia</a>.
   <li><a target="_blank" href="https://cloud.google.com">GCP</a> Firebase Realtime Database and also a Firestore Database
   <li><a target="_blank" href="https://www.npmjs.com/package/speak-tts">speak-tts</a>
+  <li><a target="_blank" href="https://www.responsivevoice.org">Responsive Voice</a>
   <li><a target="_blank" href="https://www.npmjs.com/package/wikipedia">Wikipedia</a>
   <li><a target="_blank" href="https://vuejsexamples.com/an-explosion-of-confetti-as-a-vue-3-component/">vue-confetti-explosion</a>
   <li><a target="_blank" href="https://www.npmjs.com/package/flag-icons">Flag-icons</a>
   <li><a target="_blank" hter="https://fonts.google.com/">Google Material Icons</a>
 </ul>
 
+<!--
 #### History of Reading Edge
 Previous versions of this application were developed for the author's own children from about 2005 thru 2010. At that time the points earned were credits for internet access via a specially-configured Raspberry-Pi (configured as a Wifi hotspot-kiosk with a credit-meter). With this arrangement I could produce assignments while at work, ie from my office, and my kids would literally teach themselves new things by the time I got home.  If they wanted internet access, at least, which they did.  Reading Edge was the prototype app for a larger <a target="_blank" href="https://netdispenser.github.io/">__proposed ecosystem__</a> based around the credits-for-internet-access scheme. Reading Edge itself went by the name <i>Force Reader</i> and the ecosystem was named the <i>Net Dispenser</i>.  But now it's just the reading part and the ability to earn points, while you decide the exchange rate and how those points are redeemed. 
-
+-->
 ![image](https://user-images.githubusercontent.com/5249621/233739151-5f715921-ce0a-4ec8-b293-975beececeba.png)
 
 #### More Images

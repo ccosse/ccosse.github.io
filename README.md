@@ -5,6 +5,7 @@ reconstructs it by replacing a random handful of words in their correct places. 
 Use the exercise to keep kids accountable and the rewards system to bring out their best efforts.
 
 ### Reading Edge
+![image](https://github.com/ccosse/ccosse.github.io/assets/5249621/702c035c-fd8e-49ad-8785-524092ba54bc)
 ![image](https://user-images.githubusercontent.com/5249621/233723143-a471a8ec-b0d0-45c1-888e-c14b0bcc7fa2.png)
 ![image](https://user-images.githubusercontent.com/5249621/233723552-2c8c3b94-10ec-44f1-82d2-5e4f97ea9367.png)
 ![image](https://user-images.githubusercontent.com/5249621/233723781-2974927f-98a8-48a8-be37-5ce6b51588d1.png)

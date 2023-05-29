@@ -6,6 +6,7 @@ Use the exercise to keep kids accountable and the rewards system to bring out th
 
 ### Reading Edge
 https://youtu.be/JbOJ6Jzabic
+
 ![image](https://user-images.githubusercontent.com/5249621/241815952-1d80bac0-e1c7-4938-92d7-4e621d6fc6fd.png)
 ![image](https://user-images.githubusercontent.com/5249621/233723143-a471a8ec-b0d0-45c1-888e-c14b0bcc7fa2.png)
 ![image](https://user-images.githubusercontent.com/5249621/233723552-2c8c3b94-10ec-44f1-82d2-5e4f97ea9367.png)

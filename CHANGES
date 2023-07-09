@@ -1,3 +1,8 @@
+07-08-2023
+  Re-Hydration now working.  This means that if you reload
+  the app from anyplace inside, it remembers everything and
+  allows you to resume where you left-off.
+
 07-07-2023
   Fixed issue preventing saving for valid, logged-in users
 

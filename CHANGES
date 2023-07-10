@@ -1,3 +1,7 @@
+07-10-2023
+  Fixed Facebook and GitHub logins when user had previously
+  signed-in using different credentials. 
+  
 07-08-2023
   Re-Hydration now working.  This means that if you reload
   the app from anyplace inside, it remembers everything and

@@ -1,6 +1,8 @@
 07-12-2023
   Added links to Twitter account #ReadingEdgeApp
   Added Course/Assignment/Pages block to assignment start
+  Added Help as separate page
+  Made courses pager be default page (previously help)
 
 07-11-2023
   Fixed page index for generate and appending of search 

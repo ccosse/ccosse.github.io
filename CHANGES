@@ -1,3 +1,11 @@
+07-14-2023
+  Changed navigation to more logical buttons + behavior
+  Create and load next level object from current, for 
+  example: Course -> create and load assignment,
+  Assignment -> create and load page
+  Add close button to course gradebook header
+  Removed dark-mode toggle in preferences
+
 07-12-2023
   Added links to Twitter account #ReadingEdgeApp
   Added Course/Assignment/Pages block to assignment start

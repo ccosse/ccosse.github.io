@@ -1,8 +1,14 @@
 07-14-2023
+  You can now import + export assignments, for example
+  goto any demo assignment and export to clipboard, then
+  change to your own course and import from clipboard (by 
+  pasting clipboard contents into popup and choose "save").
+
   Changed navigation to more logical buttons + behavior
   Create and load next level object from current, for 
   example: Course -> create and load assignment,
   Assignment -> create and load page
+  
   Add close button to course gradebook header
   Removed dark-mode toggle in preferences
 

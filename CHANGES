@@ -1,3 +1,13 @@
+07-15-2023
+  The new Help button on the left-side of app header
+  now functions as a toggle, so clicking a second time
+  returns you to your previous course/assignment/page/img.
+
+  Added "delete page" button to each page on right sidebar's
+  Page Pager, when showing pages of an assignment; still need
+  to use the Save button to save changes to cloud. Note that
+  there is no confirmation dialog for this action.
+
 07-14-2023
   You can now import + export assignments, for example
   goto any demo assignment and export to clipboard, then

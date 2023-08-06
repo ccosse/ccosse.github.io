@@ -29,7 +29,7 @@ Every article in Wikipedia has a short summary paragraph, and these summary para
 
 Now you can quickly and easily create reading assignments having quality content that will occupy and challenge your students for hours. Note that Reading Edge currently does not store images and text data, only public urls, in order to avoid legal minefields.
 
-#### There is a Gallery (https://www.readingedge.org/gallery)
+#### There is a Gallery (https://www.readingedge.org/#/gallery)
 
 #### Language Support
 Reading Edge works in multiple languages with both text and speech support. Current languages are: English (US), English (UK-Male), English (UK-Female) German, Italian, French, Indonesian, Russian, Thai (need voice), Chinese, Kiswahili, Portuguese, Spanish (ES), Spanish (MX), Korean, Dutch, Polish, Hindi and most recently: Thai and Kiswahili.  Try this: search for the same thing in different languages and you'll get different sets of images and text, as well!

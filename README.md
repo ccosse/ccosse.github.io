@@ -15,7 +15,7 @@ https://youtu.be/JbOJ6Jzabic
 
 The words list is created dynamically, and the activity works on the levels of: context, punctuation, capitalization, comprehension and attention to detail.  Try the DEMO (https://www.readingedge.org) and you can __feel__ yourself actually having to think and pay close attention, which is the exact point.  Note that you cannot edit or change the Demo Course or Demo Assignments, but anyone can create their own Courses and Assignments.  See built-in help (dashboard level) for details.
 
-##### Wikipedia Content
+#### Wikipedia Content
 Originally (~2004) this process was developed in order to confirm that my own kids had actually read various news articles they were told to read. If they completed the activity and had the points to prove it, then one could rest assured that they had read it carefully.
 
 However, the process of constructing reading activities requires work from the parent or teacher, and that is most definitely __not__ the point! Over the years I revisited this project many times, each time with the latest web-architecture, but something always came up (work!) and it never got finished.  However, I know from experience just how effective the simple core exercise is, and so I never let go of this project.  Now, some 20 years later, with Vue.js and Wikipedia's javascript API, here is Version 1.0 of Reading Edge -- the App I've always wanted to __make publicly available__.  It remains a work-in-progress by a one-man-band, but you can use it today! And it will only get better with time.  Be a pioneering early adopter!

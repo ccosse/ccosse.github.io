@@ -1,3 +1,16 @@
+08-06-23
+  Addressed confusing right sidebar navigation by eliminating
+  label at top of ea corresponding pager (that looked like a 
+  button) and replacing with a more logical "return to <level>" 
+  up-arrow button at top of stack.
+
+  Example: when looking at an assignment with 5 pages, now we
+  don't show a label at top of those 5 page tiles saying "5 pages"
+  as that label did nothing and had the appearance of a button.
+
+  The remaining stack really are active buttons to navigate the
+  course-assignment-page-image hierarchy.
+
 07-27-2024
   Cut demo assignment length down to ~10 pgs for each to make
   easier to complete and award points.  (currently no partial

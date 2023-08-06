@@ -6,13 +6,14 @@ Use the exercise to keep kids accountable and the rewards system to bring out th
 
 ### Reading Edge
 https://youtu.be/JbOJ6Jzabic
-
+<a href="https://youtu.be/JbOJ6Jzabic" target="_blank">
 ![image](https://user-images.githubusercontent.com/5249621/241815952-1d80bac0-e1c7-4938-92d7-4e621d6fc6fd.png)
+</a>
 ![image](https://user-images.githubusercontent.com/5249621/233723143-a471a8ec-b0d0-45c1-888e-c14b0bcc7fa2.png)
 ![image](https://user-images.githubusercontent.com/5249621/233723552-2c8c3b94-10ec-44f1-82d2-5e4f97ea9367.png)
 ![image](https://user-images.githubusercontent.com/5249621/233723781-2974927f-98a8-48a8-be37-5ce6b51588d1.png)
 
-The words list is created dynamically, and the activity works on the levels of: context, punctuation, capitalization, comprehension and attention to detail.  Try the [DEMO] (https://www.readingedge.org) and you can __feel__ yourself actually having to think and pay close attention, which is the exact point.
+The words list is created dynamically, and the activity works on the levels of: context, punctuation, capitalization, comprehension and attention to detail.  Try the DEMO (https://www.readingedge.org) and you can __feel__ yourself actually having to think and pay close attention, which is the exact point.
 
 ##### Wikipedia Content
 Originally (~2004) this process was developed in order to confirm that my own kids had actually read various news articles they were told to read. If they completed the activity and had the points to prove it, then one could rest assured that they had read it carefully.

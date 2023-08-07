@@ -2,7 +2,8 @@
 Reading Edge leverages Wikipedia content to generate or build "paragraph reconstruction" assignments for your child or students.
 Each page of an assignment contains a short Wikipedia summary passage and images. The student reads the original passage and then
 reconstructs it by replacing a random handful of words in their correct places. The system awards one point per correct word placed.
-Use the exercise to keep kids accountable and the rewards system to bring out their best efforts.
+Use the exercise to keep kids accountable and the rewards system to bring out their best efforts. 
+Read the <a href="https://github.com/ccosse/ccosse.github.io/blob/main/whitepaper.md">Whitepaper</a>.
 
 ### Reading Edge
 https://youtu.be/JbOJ6Jzabic

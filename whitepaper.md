@@ -80,7 +80,7 @@ Burmese is one language that is not supported by the tts system, however one cou
 
 #### Homeschooler Engagement
 
-#### Financial Support
+[#### Financial Support]
 
 ### Project Status
 
@@ -88,7 +88,7 @@ Burmese is one language that is not supported by the tts system, however one cou
 
 #### Software Development
 
-#### Non-Profit Organization
+[#### Non-Profit Organization]
 
 ### Appendix
 
@@ -98,10 +98,10 @@ Burmese is one language that is not supported by the tts system, however one cou
 
 ##### Product of Necessity
 
-The original platform required kids to complete reading assignments in exchange for credits that could then be used
+The original platform required kids to complete reading assignments in exchange for credits that could then be used with special hardware to grant internet access.
 
-#### Budget
+[#### Budget]
 
-#### Marketing
+[#### Marketing]
 
 #### Author

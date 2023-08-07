@@ -80,7 +80,7 @@ Burmese is one language that is not supported by the tts system, however one cou
 
 #### Homeschooler Engagement
 
-[#### Financial Support]
+[comment]: #### Financial Support
 
 ### Project Status
 
@@ -88,7 +88,7 @@ Burmese is one language that is not supported by the tts system, however one cou
 
 #### Software Development
 
-[#### Non-Profit Organization]
+[comment]: #### Non-Profit Organization
 
 ### Appendix
 
@@ -96,12 +96,14 @@ Burmese is one language that is not supported by the tts system, however one cou
 
 ##### Asymptopia Software
 
+<a href="https://www.asymptopia.com" target="_blank">website</a>
+
 ##### Product of Necessity
 
 The original platform required kids to complete reading assignments in exchange for credits that could then be used with special hardware to grant internet access.
 
-[#### Budget]
+[comment]: #### Budget
 
-[#### Marketing]
+[comment]: #### Marketing
 
 #### Author

@@ -80,7 +80,7 @@ Burmese is one language that is not supported by the tts system, however one cou
 
 #### Homeschooler Engagement
 
-[comment]: #### Financial Support
+[comment]: # Financial Support
 
 ### Project Status
 

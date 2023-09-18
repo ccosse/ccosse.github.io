@@ -1,6 +1,6 @@
 ## Reading Edge: Reading Proficiency Through Paragraph Reconstruction
 
-### August 6, 2023
+### September 10, 2023
 
 ### Abstract
 
@@ -34,7 +34,7 @@ Every account has two roles: teacher and student. Upon logging in the user is pl
 
 #### Courses & Assignments
 
-Courses and assignments are each created from a single button click. This creates an object from a default template which can then be developed according to taste. One of the first things one typically does is to set the title of the course or assignment, for example. From a selected course, the user can then add assignments from a template with a single click. Likewise, from a selected assignment the user can add blank pages from a template with a single click. Or, using the results of a search, the user can preview pages of the search's result set and optionally click to include them in the assignment. For maximum convenience and efficiency the user can let the assignment generator automatically create a set of pages from user specified search terms. In this case it is advisable to request a few more pages than actually desired and have the ability to delete a few.
+Courses and assignments are each created from a single button click. This creates an object from a default template which can then be developed according to taste. One of the first things one typically does is to set the title of the course or assignment, for example. From a selected course, the user can then add assignments from a template with a single click. Likewise, from a selected assignment the user can add blank pages from a template with a single click. Or, using the results of a search, the user can preview pages of the search result set and click to include desired pages in the assignment. For maximum convenience and efficiency the user can let the assignment generator automatically create a set of pages from user specified search terms. This convenience is key to minimizing the work for the instructor.
 
 #### Wikipedia Interface
 
@@ -52,58 +52,131 @@ Reading Edge incorporates several language features. The user selects the langua
 
 As mentioned in the previous section (Multi-Language Support), setting a language affects both the search results and the voice used to read-aloud a given passage. The text and audio are separate systems. Currently the language choices are limited to those supported by the text-to-speech system, even though Wikipedia translates to hundreds of different languages. The text-to-speech system currently supports 20+ languages, with the most recent being Thai and Kiswahili.
 
-Burmese is one language that is not supported by the tts system, however one could still paste Burmese text into an empty page and just not use the tts playback. Burmese text, to continue with the example, could be obtained by using Google Translate and just copy-and-pasting into a blank page. Of course you could also set the language to French and it would read the Burmese text with a French accent. Again, amusing for a few minutes but not useful.
+Burmese is one language that is not supported by the TTS system, however one could still paste Burmese text into an empty page and just not use the tts playback. Burmese text, to continue with the example, could be obtained by using Google Translate and just copy-and-pasting into a blank page. Of course you could also set the language to French and it would read the Burmese text with a French accent. Again, amusing for a few minutes but not useful.
 
-### Benefits
+### Benefits of Paragraph Reconstruction
 
-#### Nevada
+Paragraph reconstruction can be used as an instructional tool to reinforce reading and writing skills. It's a versatile exercise that can be adapted to various age groups and proficiency levels, making it a valuable resource for teachers and learners alike. The benefits include:
+
+1. **Improves Reading Comprehension**: Paragraph reconstruction requires individuals to understand the logical flow of a text and how ideas are connected. This enhances their ability to comprehend and make sense of written material.
+
+2. **Enhances Critical Thinking**: Participants need to analyze the content, identify the main ideas, and determine the appropriate sequence. This promotes critical thinking and problem-solving skills.
+
+3. **Strengthens Language Skills**: By working on paragraph reconstruction, individuals develop their language skills, including vocabulary, grammar, and syntax. They learn how sentences fit together to create a well-structured paragraph or essay.
+
+4. **Encourages Attention to Detail**: Reconstructing paragraphs demands careful attention to sentence structure, punctuation, and transitions. It encourages individuals to notice and correct errors in written texts.
+
+5. **Boosts Writing Skills**: As participants engage in rearranging sentences, they gain insight into how well-constructed paragraphs are formed. This knowledge can be applied when they write their own essays and compositions.
+
+6. **Strengthens Memory**: Engaging in paragraph reconstruction exercises can enhance memory, as it requires individuals to remember sentence details and the sequence of information.
+
+7. **Prepares for Standardized Tests**: Many standardized tests, including language proficiency exams like TOEFL or IELTS, include paragraph reconstruction tasks. Practicing this skill can be valuable for test preparation.
+
+8. **Cultivates Active Reading**: Paragraph reconstruction encourages individuals to actively engage with the text. Instead of passively reading, they must analyze the content and its structure.
+
+9. **Promotes Collaborative Learning**: Group activities involving paragraph reconstruction can foster teamwork and discussion as participants work together to identify the correct sequence.
+
+10. **Builds Confidence**: Successfully reconstructing passages boosts a learner's confidence in their reading and language skills. It's a tangible achievement that demonstrates their ability to understand and manipulate written texts.
+
+
+### Further Benefits of Reading Edge
+
+While Reading Edge lends itself naturally to improvement of students' reading and comprehension skill, its flexibility with respect to content means that it can be used for teaching about much more than just reading skills, while still developing those reading skills in parallel.  This bigger bang-for-the-buck was indeed the key consideration when deciding whether to develop the project to its current state. 
+
+Depending on the content of the paragraphs being reconstructed, students may gain exposure to different cultures, perspectives, and ideas, which can broaden their worldview and cultural awareness. Likewise it can be used to expose them to career options, current events, history, engineering topics and anything else that can be expressed and documented with words. 
+
+The language capabilities are another big bang-for-the-buck, making Reading Edge useful for teaching all of the above in students' native languages, as well as for foreign language teaching itself. Many combinations of these capabilities remain to be fully explored.
+
+### Guiding Principles
+
+People have high expectations for education software, and software in general. To meet these expectations the future of Reading Edge will be guided by the goals of being sustainable, enjoyable, user-friendly, accessible, affordable, effective, convenient, efficient, reliable, versitile, customizable, engaging, adaptable, scalable, responsive and inclusive.
 
 ### First Goals
 
-#### Self-Sustaining
+In order to realize its potential two things need to be addressed first: user experience and project sustainability.
 
 #### Enjoyable Experience
 
+Although the software currently exists and is functional, much work actually remains.  Ultimately the software needs to improve to the point where it meets peoples' expectations, people want to use it and people enjoy using it.  The first areas in need of attention are the teacher and student dashboards.
+
+#### Self-Sustaining
+
+Despite its simplicity and advanced state of development, the success of the project will require further development and consisten, sustained attention. For this the project seeks to establish itself as a 501-c3 non-profit organization.  This will enable the project to solicit funds to support further development and provide that sustained attention.
+
+The project intends to maintain a free-tier for home use as well as a paid subscription tier for classrooms and schools.  The development of this infrastructure is currently incomplete.
+
 ### Future Goals
+
+While keeping the software simple is key to its sustainabiity and scalability, data analytics is one area where the project intends to undergo significant future development, as this is something for which computer software is particularly well suited and capable, and is an area in which the author has considerable experience, as well.
 
 #### Student Assessment
 
+A simple gradebook is the only assessment tool that is currently implemented, but more can be done, starting with additional views to show how many attempts, and how much time it took a student to complete each page. This would enable the instructor to identify and quantify which students have the most trouble. 
+
+Keeping the application simple will limit the data available for scrutiny, but there are still more ways to combine that limited information to produce meaningful insights. Other measurable quantities are: how much time, overall, has a student spent on the system, how much time has been spent per page as a function of replacement percentage, or an instructor-defined difficulty index.
+
 #### Quantify Effectiveness
+
+When promoting Reading Edge it would be useful to be able to quantify its effectiveness. The US Department of Education operates a program called the "What Works Clearinghouse" (WWC) which performs independent assessments of education software according to established benchmarks and metrics. There is currently a surprising lack of research about paragraph reconstruction from the WWC.  Existing case studies refer to group activities where students recreate paragraphs using whole sentences at a time, or merely just rewrite what they understood and try to capture the gist of the original passage.  These activities were found to be effective, but they required substantial teacher involvement, and an application such as Reading Edge can help make paragraph reconstruction a more accessible tool for educators.
 
 #### As Resesarch Tool
 
-### Challenges
+Similar to a teacher's need to quantify student performance, the Education Institution, itself, needs to quantify performance on a national scale across schools, teachers and states.  Every university with an Education department is involved in some form of research to this end, and with appropriate modifications Reading Edge can be a valuable tool for these researchers, as well. The author intends to establish the effectiveness of Reading Edge through collaboration with the What Works Clearinghouse, first, and then take those results to education researchers to seek research collaborations.
 
-#### Parent Engagement
+### Keys to Success
 
-#### School Engagement
+#### Nevada and Beyond
 
-#### Homeschooler Engagement
+Reading Edge is developed locally here in Las Vegas. As such, it would be particularly satisfying to see it have a positive impact at home in Nevada. Thus, while the project has potential for kids everywhere, the project would maintain a special focus on Nevada.  Thus, in parallel with the effort to obtain the official blessings of the Department of Education and the like, the project intends to maintain a special focus on Nevada.
 
-<!-- #### Financial Support -->
+The order of operations here would be to first polish the application a bit more in order to meet peoples' expectations, and then to promote it localy throughout Nevada using a variety of platforms and channels.  These would  include targeted promotional advertising online through Google Ads, Twitter and Facebook, as well as paper brochours, emails and other materials to libraries, schools and groups concerned with education here in Nevada.
+
+The challenge and the goal would be to successfully engage with three distinct groups: parents, schools and homeschoolers. 
 
 ### Project Status
 
-#### Team & Collaboration
+#### Non-Profit Organization
+<!-- #### Team & Collaboration -->
+<!-- #### Financial Support -->
+
+The author seeks to grow the project from its current state into a self-sustaining platform and organization supported by a small staff Envisioned roles correspond to organizational finances, software development, product support, outreach and promotion, social media presence and solicitation of ongoing financial support. The author has a list of capable individuals for these roles who are ready, willing and interested as needs arise.
 
 #### Software Development
 
-<!-- #### Non-Profit Organization -->
+As it is a software project, software development will always be of primary importance.  To this end the platform needs to meet users' expectations for ease-of-use, functionality and effectiveness.  Powerful dashboards are at the top of the software development wish-list, followed by increased interface reactivity, perhaps a mobile app, and tools to visualize student performance and facilitate assessment.
+
+In parallel with user-facing advancements there is an equally important need to develop project administrative tools.  This includes custom tools for user management, subscription management, promotions management, website traffic analysis and ROI analysis with respect to marketing efforts.
 
 ### Appendix
 
-#### Project History
+#### A1. Project History
 
-##### Asymptopia Software
+Reading Edge was a product of necessity. Around 2005 I was simultaneously pursuing a Ph.D. in physics, working full-time as a software engineer and was the parent of two young children attending public school in Las Cruces, New Mexico.  My kids would get home 2 full hours before me, and I wanted them to use some of that time to improve their own skills in preparation for their futures which lay ahead.  Typically I would email links to various news articles which I thought they should read.
 
-<a href="https://www.asymptopia.com" target="_blank">website</a>
+One day I caught a glimpse of my daughter's email account and was shocked to see that all of my emails remained unopened! Furthermore, they were going straight to the internet to play online games.  So I developed the paragraph reconstruction activity to ensure that they read each article carefully, and a special credit-meter system that worked like a self-serve assignment kiosk where they would earn credits for each completed reading assignment which could then be used with the credit-meter to "purchase" their internet access.
 
-##### Product of Necessity
+This system had a profound effect on my children and our family as a whole. First it taught them a lot about the world, as well as accountability and self-discipline.  The other major benefit was that I was not required to be the "bad guy" anymore.  That distinction was transferred to the automated system.
 
-The original platform required kids to complete reading assignments in exchange for credits that could then be used with special hardware to grant internet access.
+By the time I returned home each night my kids would be full of interesting things to talk about and would frequently, literally beg for more work.  That, to me, was perhaps the Holy Grail of education, ie having a student beg for more work.
+
+Seeing this led me to develop the software and credit-meter system further, with the intent to share it with a wider audience. My philosophy was that "as long as I had my job and career I could afford to give it away at cost" (the wifi credit-meter kiosk cost about $100 for the hardware). 
+
+I found that people had a lot of interest in the project.  I presented at a couple trade shows, presented at Py-Con, won a shark-tank-like competition and had collaborations with several developers and organizations. 
+
+Several factors ultimately precluded my success.  These were: my 2 full-time jobs, immature technology, level-of-difficulty both in cutting and pasting assignments together, as well as technical requirements to setup the credit-meter hardware.  Another factor was my stupborn attempts to create a complimentary community of both parents and developers.
+
+In 2023 I found myself with a bit of spare time, during which I discovered Wikipedia's JavaScript interface. That enabled me to "solve" the content creation problem of the core activity, namely having to cut-and-paste together reading assignments and imagery, and all issues relating to content attribution. As for the original incentive that the credit-meter kiosk system provided, I decided to leave that as an external dependency and let people devise their own incentives.
+
+The original credit-meter kiosk was named the "Net Dispenser", and the project was titled CREATE, which was an acronym for "Coalition for the Realization of Education Applications That Empower". All of this is still a possible future direction for the project, as well.
+
+#### A2. Asymptopia Software
+
+In 1999 I began to develop education software for my own kids. After some initial successes it became clear that with a little polishing these applications could be useful to a much larger, international audience, and thus I began to share them as opensource projects via my <a href="https://www.asymptopia.com" target="_blank">website</a>, Asymptopia Software  (www.asymptopia.com).
 
 <!-- #### Budget -->
 
 <!-- #### Marketing -->
 
-#### Author
+#### A3. Author
+
+The author, Charlie Cosse, earned his Ph.D. in physics in 2004 and has worked on a multitude of projects since, including international physics collaborations and experiments, a year as a Peace Corps Response volunteer developing software for the government of Guyana, startups in Real Estate and Food Delivery, and his current position developing flight simulator software for the US Navy. To this day, Reading Edge remains the best thing he's ever developed due to its potential for teaching kids about the world and, simultaneously, how to read carefully.

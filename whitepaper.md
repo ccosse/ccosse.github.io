@@ -1,6 +1,6 @@
 ## Reading Edge: Reading Proficiency Through Paragraph Reconstruction
 
-### September 10, 2023
+### Updated: September 24, 2023
 
 ### Abstract
 
@@ -101,7 +101,7 @@ Although the software currently exists and is functional, much work actually rem
 
 #### Self-Sustaining
 
-Despite its simplicity and advanced state of development, the success of the project will require further development and consisten, sustained attention. For this the project seeks to establish itself as a 501-c3 non-profit organization.  This will enable the project to solicit funds to support further development and provide that sustained attention.
+Despite its simplicity and advanced state of development, the success of the project will require further development and consistent, sustained attention. For this the project may seek to establish itself as a 501-c3 non-profit organization.  This would enable the project to solicit funds to support further development and provide that sustained attention.
 
 The project intends to maintain a free-tier for home use as well as a paid subscription tier for classrooms and schools.  The development of this infrastructure is currently incomplete.
 
@@ -113,7 +113,7 @@ While keeping the software simple is key to its sustainabiity and scalability, d
 
 A simple gradebook is the only assessment tool that is currently implemented, but more can be done, starting with additional views to show how many attempts, and how much time it took a student to complete each page. This would enable the instructor to identify and quantify which students have the most trouble. 
 
-Keeping the application simple will limit the data available for scrutiny, but there are still more ways to combine that limited information to produce meaningful insights. Other measurable quantities are: how much time, overall, has a student spent on the system, how much time has been spent per page as a function of replacement percentage, or an instructor-defined difficulty index.
+Keeping the application simple will limit the data available for scrutiny, but there are still many ways to combine that limited information to produce meaningful insights. Other measurable quantities are: how much time, overall, has a student spent on the system, how much time has been spent per page as a function of replacement percentage, or an instructor-defined difficulty index.
 
 #### Quantify Effectiveness
 
@@ -129,21 +129,19 @@ Similar to a teacher's need to quantify student performance, the Education Insti
 
 Reading Edge is developed locally here in Las Vegas. As such, it would be particularly satisfying to see it have a positive impact at home in Nevada. Thus, while the project has potential for kids everywhere, the project would maintain a special focus on Nevada.  Thus, in parallel with the effort to obtain the official blessings of the Department of Education and the like, the project intends to maintain a special focus on Nevada.
 
-The order of operations here would be to first polish the application a bit more in order to meet peoples' expectations, and then to promote it localy throughout Nevada using a variety of platforms and channels.  These would  include targeted promotional advertising online through Google Ads, Twitter and Facebook, as well as paper brochours, emails and other materials to libraries, schools and groups concerned with education here in Nevada.
+The order of operations here would be to first polish the application a bit more in order to meet peoples' expectations, and then to promote it localy throughout Nevada using a variety of platforms and channels.  These would  include targeted promotional advertising online through Google Ads and Social Media, as well as paper brochours, emails and other materials to libraries, schools and groups concerned with education here in Nevada.
 
 The challenge and the goal would be to successfully engage with three distinct groups: parents, schools and homeschoolers. 
 
 ### Project Status
 
-#### Non-Profit Organization
-<!-- #### Team & Collaboration -->
-<!-- #### Financial Support -->
+#### Reading Edge Organization
 
-The author seeks to grow the project from its current state into a self-sustaining platform and organization supported by a small staff Envisioned roles correspond to organizational finances, software development, product support, outreach and promotion, social media presence and solicitation of ongoing financial support. The author has a list of capable individuals for these roles who are ready, willing and interested as needs arise.
+The author has investigated how to grow the project from its current state into a self-sustaining platform and organization supported by a small staff Envisioned roles correspond to organizational finances, software development, product support, outreach and promotion, Social Media presence and solicitation of ongoing financial support. The author has a list of capable individuals for these roles who are ready, willing and interested as needs arise. A decision whether to pursue 501-c3 status has not yet been made.
 
 #### Software Development
 
-As it is a software project, software development will always be of primary importance.  To this end the platform needs to meet users' expectations for ease-of-use, functionality and effectiveness.  Powerful dashboards are at the top of the software development wish-list, followed by increased interface reactivity, perhaps a mobile app, and tools to visualize student performance and facilitate assessment.
+As it is a software project, software development will always be of primary importance.  To this end the platform needs to meet users' expectations for ease-of-use, functionality and effectiveness.  Powerful dashboards are at the top of the software development wish-list, followed by increased interface reactivity, a mobile app, and tools to visualize student performance and facilitate assessment.
 
 In parallel with user-facing advancements there is an equally important need to develop project administrative tools.  This includes custom tools for user management, subscription management, promotions management, website traffic analysis and ROI analysis with respect to marketing efforts.
 
@@ -151,19 +149,19 @@ In parallel with user-facing advancements there is an equally important need to 
 
 #### A1. Project History
 
-Reading Edge was a product of necessity. Around 2005 I was simultaneously pursuing a Ph.D. in physics, working full-time as a software engineer and was the parent of two young children attending public school in Las Cruces, New Mexico.  My kids would get home 2 full hours before me, and I wanted them to use some of that time to improve their own skills in preparation for their futures which lay ahead.  Typically I would email links to various news articles which I thought they should read.
+Reading Edge was a product of necessity. It is the product that I, as a parent, would have gladly paid $5 each day for.  Around 2005 I was simultaneously pursuing a Ph.D. in physics, working full-time as a software engineer and was the parent of two young children attending public school. My kids would get home 2 full hours before me, and I wanted them to use some of that time to improve their own skills in preparation for their futures which lay ahead.  Typically I would email links to various news articles which I thought they should read.
 
 One day I caught a glimpse of my daughter's email account and was shocked to see that all of my emails remained unopened! Furthermore, they were going straight to the internet to play online games.  So I developed the paragraph reconstruction activity to ensure that they read each article carefully, and a special credit-meter system that worked like a self-serve assignment kiosk where they would earn credits for each completed reading assignment which could then be used with the credit-meter to "purchase" their internet access.
 
-This system had a profound effect on my children and our family as a whole. First it taught them a lot about the world, as well as accountability and self-discipline.  The other major benefit was that I was not required to be the "bad guy" anymore.  That distinction was transferred to the automated system.
+This system had a profound effect on my children and our family as a whole. First, the articles which I compelled them to read taught them a lot about the world. Additional benefits included accountability, time management and self-discipline.  The other major benefit was that I was not required to be the "bad guy" who constantly nagged them to read anymore.  That distinction was transferred to the automated system.
 
 By the time I returned home each night my kids would be full of interesting things to talk about and would frequently, literally beg for more work.  That, to me, was perhaps the Holy Grail of education, ie having a student beg for more work.
 
-Seeing this led me to develop the software and credit-meter system further, with the intent to share it with a wider audience. My philosophy was that "as long as I had my job and career I could afford to give it away at cost" (the wifi credit-meter kiosk cost about $100 for the hardware). 
+Seeing this led me to develop the software and credit-meter system further, with the intent to share it with a wider audience. My philosophy was that "as long as I had my day job and career I could afford to give it away at cost" (the wifi credit-meter kiosk cost about $100 for the hardware). 
 
 I found that people had a lot of interest in the project.  I presented at a couple trade shows, presented at Py-Con, won a shark-tank-like competition and had collaborations with several developers and organizations. 
 
-Several factors ultimately precluded my success.  These were: my 2 full-time jobs, immature technology, level-of-difficulty both in cutting and pasting assignments together, as well as technical requirements to setup the credit-meter hardware.  Another factor was my stupborn attempts to create a complimentary community of both parents and developers.
+Several factors ultimately precluded my success.  These were: immature technology, level-of-difficulty both in cutting and pasting assignments together, and technical requirements to setup the credit-meter hardware.  Another factor was my stupborn attempts to create a complimentary community of both parents and developers.
 
 In 2023 I found myself with a bit of spare time, during which I discovered Wikipedia's JavaScript interface. That enabled me to "solve" the content creation problem of the core activity, namely having to cut-and-paste together reading assignments and imagery, and all issues relating to content attribution. As for the original incentive that the credit-meter kiosk system provided, I decided to leave that as an external dependency and let people devise their own incentives.
 
@@ -179,4 +177,4 @@ In 1999 I began to develop education software for my own kids. After some initia
 
 #### A3. Author
 
-The author, Charlie Cosse, earned his Ph.D. in physics in 2004 and has worked on a multitude of projects since, including international physics collaborations and experiments, a year as a Peace Corps Response volunteer developing software for the government of Guyana, startups in Real Estate and Food Delivery, and his current position developing flight simulator software for the US Navy. To this day, Reading Edge remains the best thing he's ever developed due to its potential for teaching kids about the world and, simultaneously, how to read carefully.
+The author, Charlie Cosse, earned his Ph.D. in physics in 2004 and has worked on a multitude of projects since, including international physics collaborations and experiments, a year as a Peace Corps Response volunteer developing software for the government of Guyana, startups in Real Estate and Food Delivery, and his current position developing flight simulator software. To this day, Reading Edge remains the best thing he's developed due to its potential for teaching kids about the world and, simultaneously, how to read carefully.
